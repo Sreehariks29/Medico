@@ -5,7 +5,9 @@
 	<groupId>com.doc.medico</groupId>
 	<artifactId>Medico</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Medico</name>
+	
 	
 	<properties>
 	<java.version>1.8</java.version>
