@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MedicoRestController {
 
-	@RequestMapping( value= "/hello")
+	@RequestMapping( value= "/Medico-0.0.1-SNAPSHOT.war")
 	public String getGreetings() {
 		
 		return "hello";
