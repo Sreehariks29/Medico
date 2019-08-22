@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Medico
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sreehariks
+Implementation-Vendor-Id: com.doc.medico
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/Medico/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
